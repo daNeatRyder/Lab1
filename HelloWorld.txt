@@ -1,1 +1,1 @@
-print("A M O G U S")
+print("Here's the flag: {AMOGUSISOURGODNOW}")
